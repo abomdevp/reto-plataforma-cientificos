@@ -14,7 +14,7 @@ https://github.com/jpdhrelator/intro-vue-modulo-6-leccion-3-clase-4
 - Cálculo automático del promedio de edad
 - Interfaz responsive con Bootstrap 5
 
-# Uso (Requiere instalación de dependencias):
+# Uso
 
 npm install  
 npm run serve
