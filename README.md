@@ -1,24 +1,20 @@
-# plataforma-cientificos
+# reto-plataforma-cientificos
 
-## Project setup
-```
-npm install
-```
+Sistema modular de gestión de personal científico desarrollado con Vue 3, aplicando validación de RUT y separación de lógica de negocio, validaciones y capa visual.
 
-### Compiles and hot-reloads for development
-```
+# Ejercicio
+
+https://github.com/jpdhrelator/intro-vue-modulo-6-leccion-3-clase-4
+
+# Funcionalidades
+
+- Registro de personal con validación de RUT chileno
+- Operaciones CRUD (agregar, editar y eliminar personas)
+- Validaciones reactivas con propiedades computadas
+- Cálculo automático del promedio de edad
+- Interfaz responsive con Bootstrap 5
+
+# Uso (Requiere instalación de dependencias):
+
+npm install  
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
